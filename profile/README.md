@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="public/icon.webp" width="96" height="96" alt="Exereal" />
+<img src="public/icon.png" width="96" height="96" alt="Exereal" />
 
 # Exereal Launcher
 
